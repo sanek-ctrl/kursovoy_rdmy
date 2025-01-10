@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kursovoy</string>
+    <string name="user_icon">Иконка пользователя</string>
+    <string name="favorite_button">Избранное</string>
+    <string name="trash_button">Корзина</string>
+    <string name="search_button">Поиск</string>
+</resources>

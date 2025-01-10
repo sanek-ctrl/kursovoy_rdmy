@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/allNotes"
+        android:title="Все заметки" />
+    <item
+        android:id="@+id/favorites"
+        android:title="Избранное" />
+    <item
+        android:id="@+id/trash"
+        android:title="Корзина" />
+</menu>
